@@ -1,0 +1,6 @@
+df -Ph /
+dmidecode -s system-manufacturer
+who
+who -b
+whoami
+last
